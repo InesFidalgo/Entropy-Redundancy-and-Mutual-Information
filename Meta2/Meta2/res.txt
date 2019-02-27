@@ -1,0 +1,164 @@
+Trabalho realizado por:
+Ricardo Costa 2013154238
+Ana Inês Fidalgo 2013134819
+André Monteiro 2013171072
+
+ 	Ficheiro: kid.bmp
+Entropia = 6.954143e+00
+Huffman = 6.983223e+00
+
+Entropia com combinações = 4.939796
+
+	Ficheiro: homer.bmp
+Entropia = 3.465865e+00
+Huffman = 3.548316e+00
+Entropia com combinações = 2.507404e+00
+
+	Ficheiro: homerbin.bmp
+Entropia = 6.447814e-01
+Huffman = 1
+Entropia com combinações = 3.878529e-01
+
+	Ficheiro: guitarSolo.wav
+Warning: WAVREAD will be removed in a future release.
+Use AUDIOREAD instead. 
+> In wavread at 62
+  In main at 82 
+Entropia = 7.358020e+00
+Huffman = 7.379079e+00
+Entropia com combinações = 5.806828e+00
+
+       Ficheiro: english.txt
+Entropia = 4.279827e+00
+Huffman = 4.303279e+00
+Informacao Mutua
+ 
+        Informação mútua
+guitarSolo.wav vs target01 - repeat.wav
+    7.3207    0.3289    0.3354    0.3297    7.2789    0.3289    0.3355    0.3293    7.2806
+ 
+guitarSolo.wav vs target02 - repeatNoise.wav
+    2.7113    0.3354    0.3379    0.3366    2.6934    0.3363    0.3388    0.3340    2.6946
+ 
+Simulador
+Song01
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 111
+    0.2552    0.2578
+ 
+Máximo:
+    0.2578
+ 
+Song02
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 121
+    0.3777
+ 
+Máximo:
+    0.3777
+ 
+Song03
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 131
+    0.3045    0.3022
+ 
+Máximo:
+    0.3045
+ 
+Song04
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 141
+    0.4097    0.4067
+ 
+Máximo:
+    0.4097
+ 
+Song05
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 151
+  Columns 1 through 11
+ 
+    3.9618    0.3278    0.3282    0.3290    0.3432    0.3359    0.3303    0.3372    0.3348    0.3345    0.3337
+ 
+  Columns 12 through 22
+ 
+    0.3407    0.3429    0.3337    0.3442    0.3292    0.3322    0.3280    0.3355    0.3350    0.3421    0.3320
+ 
+  Columns 23 through 29
+ 
+    0.3407    0.3525    0.3344    0.3335    0.3459    0.3296    0.3220
+ 
+Máximo:
+    3.9618
+ 
+Song06
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 161
+  Columns 1 through 11
+ 
+    7.3384    0.3264    0.3301    0.3281    0.3437    0.3345    0.3307    0.3391    0.3308    0.3350    0.3361
+ 
+  Columns 12 through 22
+ 
+    0.3379    0.3397    0.3370    0.3440    0.3318    0.3294    0.3251    0.3348    0.3353    0.3413    0.3338
+ 
+  Columns 23 through 29
+ 
+    0.3425    0.3527    0.3328    0.3337    0.3434    0.3315    0.3234
+ 
+Máximo:
+    7.3384
+ 
+Song07
+Warning: Size vector should be a row vector with integer elements.
+> In infoMutua at 8
+  In main at 171
+  Columns 1 through 11
+ 
+    6.3131    0.1778    0.1818    0.1795    0.1920    0.1855    0.1797    0.1937    0.1848    0.1856    0.1843
+ 
+  Columns 12 through 22
+ 
+    0.1879    0.1877    0.1852    0.1971    0.1854    0.1836    0.1832    0.1884    0.1824    0.1895    0.1839
+ 
+  Columns 23 through 29
+ 
+    0.1936    0.2100    0.1877    0.1844    0.1940    0.1832    0.1833
+ 
+Máximo:
+    6.3131
+ 
+Resultados da simulação
+    7.3384
+ 
+     6
+ 
+    6.3131
+ 
+     7
+ 
+    3.9618
+ 
+     5
+ 
+    0.4097
+ 
+     4
+ 
+    0.3777
+ 
+     2
+ 
+    0.3045
+ 
+     3
+ 
+    0.2578
+ 
+     1
